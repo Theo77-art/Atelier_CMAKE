@@ -1,0 +1,5 @@
+# ninja log v5
+7	87	7372898869377431	src/lib/CMakeFiles/lib.dir/calculator.c.obj	eeea5023e2081a3e
+1	105	7372898869562628	src/CMakeFiles/calculator.dir/main.c.obj	b061ec78350e67e1
+88	187	7372898870368802	src/lib/liblib.a	31183dd6457301db
+188	328	7372898871744645	src/calculator.exe	7b06c3b793693abe
